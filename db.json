@@ -1,0 +1,46 @@
+{
+  "task": [
+    {
+      "id": 1,
+      "text": "Doctor's appointment",
+      "day": "Today",
+      "reminder": true
+    },
+    {
+      "id": 2,
+      "text": "Work",
+      "day": "25 September 2022",
+      "reminder": false
+    },
+    {
+      "id": 3,
+      "text": "Assignment Work",
+      "day": "26 September 2022",
+      "reminder": true
+    },
+    {
+      "id": 4,
+      "text": "test",
+      "day": "ddsa",
+      "reminder": ""
+    },
+    {
+      "id": 5,
+      "text": "fetch",
+      "day": "data",
+      "reminder": ""
+    },
+    {
+      "id": 6,
+      "text": "new data",
+      "day": "fetch",
+      "reminder": true
+    },
+    {
+      "id": 7,
+      "text": "await",
+      "day": "data",
+      "reminder": ""
+    }
+  ]
+}
