@@ -16,6 +16,7 @@ export default {
     Tasks,
     AddTask,
   },
+  
   data() {
     return {
       task: [],
